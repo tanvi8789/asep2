@@ -1,0 +1,2 @@
+D:/asep2/focusbot_app/android/app/.cxx/Debug/f391f644/x86/CMakeFiles/edit_cache.dir
+D:/asep2/focusbot_app/android/app/.cxx/Debug/f391f644/x86/CMakeFiles/rebuild_cache.dir

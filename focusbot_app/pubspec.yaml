@@ -1,0 +1,36 @@
+name: focusbot_app
+description: A smart productivity companion with task tracking and Pomodoro sessions.
+publish_to: 'none' # This prevents accidental publishing to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.6.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  sqflite: ^2.2.8+4
+  path: any
+  path_provider: ^2.1.1
+  intl: ^0.18.1
+  shared_preferences: ^2.2.2
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  # Uncomment and add paths if you're using any image assets:
+  # assets:
+  #   - assets/images/
+
+  # Uncomment and edit if you're using custom fonts:
+  # fonts:
+  #   - family: CustomFont
+  #     fonts:
+  #       - asset: fonts/CustomFont-Regular.ttf
